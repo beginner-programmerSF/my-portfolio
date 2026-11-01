@@ -73,7 +73,7 @@
 
 .education{
     display: flex;
-    height: 120px; 
+    height: auto; 
     margin-left: 50px;
     margin-right: 50px;
     padding: 10px;
