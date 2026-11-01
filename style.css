@@ -23,3 +23,69 @@
     margin-top: 10px;
 }
 
+.about{
+
+    display: flex;
+    flex-direction: column;
+    height: 80px; 
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    border: 2px solid #000;
+    margin-top: 10px;
+}
+
+.about-p{
+    margin-top: 10px;
+}
+
+.soft-skills{
+    display: flex;
+    flex-direction: column;
+    height: 120px; 
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    border: 2px solid #000;
+    margin-top: 10px;
+}
+
+.soft-skills-list{
+    margin-top: 10px;
+
+}
+
+.tech-skills{
+    display: flex;
+    flex-direction: column;
+    height: 120px; 
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    border: 2px solid #000;
+    margin-top: 10px;
+}
+
+.tech-skills-list{
+    margin-top: 10px;
+
+}
+
+.education{
+    display: flex;
+    height: 120px; 
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 2px solid #000;
+    margin-top: 10px;
+}
+
+.education-table th, .education-table td {
+    border: 1px solid black;
+}
+
+.education-table {
+    border-collapse: collapse;
+}
