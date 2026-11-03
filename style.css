@@ -3,6 +3,52 @@
 }
 
 
+
+.ulnavbar .linavbar {
+  float: right;
+}
+
+.ulnavbar .linavbar {
+    display: flex;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.navbar {
+    background-color: #e99898;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.linavbar a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.ulnavbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.ulnavbar .linavbar a:hover {
+  background-color: #ff08f3;
+}
+.navbarlogo{
+    height: 30px;
+    width: auto;
+    object-fit: contain;
+}
+
 .myimg{
     margin-top: 10px;
     height: 240px;
